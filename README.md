@@ -12,10 +12,12 @@ The voting feature will be delivered with a dapp : The Shitcoin Portal. To be ab
   - PancakeSwap Liquidity : 94% (will be locked forever)
   - Marketing wallet: 4% of the total supply
   - Dev wallet: 2% of the total supply
+
 💎 Transaction Tax 15% distributed as follows:
   - 7% Redistribution In rewards token for $SHIW holders
   - 5% Marketing and Buyback
   - 3% Auto Liquidity Pool
+
 💎 Burn Mechanism by using the multiple dapp features TBA
 
 For more info, join the Shitcoin Wizard army
